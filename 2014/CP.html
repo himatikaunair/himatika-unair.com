@@ -1,0 +1,127 @@
+<?php
+echo "goo";
+?>
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>HIMATIKA | Kontak</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'> 
+<script type="text/javascript" src="js/jquery-1.9.0.min.js"></script>
+<link rel="icon" href="images/iconhima.ico" type="image/x-icon">
+<!--light-box-->
+<script type="text/javascript" src="js/jquery.lightbox.js"></script>
+<link rel="stylesheet" type="text/css" href="css/lightbox.css" media="screen">
+	<script type="text/javascript">
+		$(function() {
+			$('.gallery a').lightBox();
+		});
+   </script>    
+</head>
+<body>
+<div class="header">                                                                                  
+	<div class="wrap">                                                                                
+	   <div class="header-top">	                                                                      
+	        <div class="logo">                                                                        
+				<a href="index.html"><img src="images/DDD.png" alt=""/></a>                                             
+			</div>                                                                                    
+			<div class="sekre">                                                                       
+				<span class="order">Sekretariat HIMATIKA</span><br>                                          
+				<h5 class="lokasi">Universitas Airlangga<br>Kampus C<br>Fakultas Sains & Teknologi</h5>		                                          
+			</div>                                                                                    
+			<div class="clear"></div>                                                                 
+	    </div>                                                                                        
+	</div>                                                                                            
+	<div class="header-bottom">                                                                       
+	  <div class="wrap">	                                                                          
+		<div id="cssmenu">                                                                            
+			 <ul>                                                                                     
+			   <li class=""><a href="index.html"><span>Beranda</span></a></li>
+			   <li><a href="Tentang.html"><span>Tentang</span></a></li>
+			   <li class="has-sub"><a href="Pengurus.html"><span>Pengurus</span></a>
+			      <ul>
+			         <li class="has-sub"><a href="BPH.html"><span>BPH</span></a></li>
+                     <li class="has-sub"><a href="PSDM.html"><span>Bidang PSDM</span></a></li>
+			         <li class="has-sub"><a href="Keilmuan.html"><span>Bidang Keilmuan</span></a></li>
+                     <li class="has-sub"><a href="Infokom.html"><span>Bidang Infokom</span></a></li>
+                     <li class="has-sub"><a href="Kerohanian.html"><span>Bidang Kerohanian</span></a></li>
+                     <li class="has-sub"><a href="Pengmas.html"><span>Bidang Pengmas</span></a></li>
+                     <li class="has-sub"><a href="Sera.html"><span>Bidang SERA</span></a></li>
+                     <li class="has-sub"><a href="Biro.html"><span>Bidang BIRO</span></a></li>
+                     
+			      </ul>
+			   </li>
+               <li class="last"><a href="gallery.html"><span>Galeri</span></a></li>
+			   <li class="active"><a href="CP.html"><span>Kontak</span></a></li>                 
+			</ul>                                                                                     
+		</div>                                                                                        
+		<div class="clear"></div>                                                                     
+	  </div>                                                                                          
+   </div>                                                                                             
+</div>                                                                                                
+ <div class="main">
+ 	<div class="top-box">
+    	<div class="about-us">
+		<div class="about-header">
+			<h2 class="style"><img src="images/contactus.png" width="200" height="200"></h2>
+			<div class="clear"> </div>
+		</div>
+						<div class="about-info">
+							<p class="para">Kami dari pihak Himatika Universitas Airlangga Mengucapkan "Selamat Datang Di Website Himatika", dengan segala kekurangan dan kelebihan dari website kami, kami berusaha memberikan segala informasi untuk warga Himatika maupun untuk umum.<br><br>Kami sangat mengharapakan dari warga Himatika dapat membantu dalam kelangsungan dari website ini untuk selalu menjadi website yang bermaanfaat untuk warga Himatika maupun untuk umum.</p><br>
+			<h2 class="style">Contact Person</h2>				
+						</div>
+                        <div class="about-info">
+							<p class="para">Fatich Fazlur Rochman - S1 Sistem Informasi (0858 1574 0493)<br>Muhammad Iqbal - S1 Sistem Informasi (0856 5545 2505)</p>
+                        </div>
+                            
+                        
+		<script>
+			$("#slideshow > div:gt(0)").hide();
+			setInterval(function() { 
+			  $('#slideshow > div:first')
+			    .fadeOut(00)
+			    .next()
+			    .fadeIn(500)
+			    .end()
+			    .appendTo('#slideshow');
+			},  2000);
+		</script>
+		</div>
+	</div>
+  <div class="footer">
+	<div class="wrap">
+		 <div class="copy">
+			<p>HIIMATIKA UNIVERSITAS AIRLANGGA</p>
+		</div>
+		<ul class="follow_icon">
+		   <li><a href="https://www.facebook.com/groups/301874043312368/" style="opacity: 1;"><img src="images/fb.png" alt=""></a></li>
+		   <li><a href="https://twitter.com/HIMATIKA_UA" style="opacity: 1;"><img src="images/tw.png" alt=""></a></li>
+		   <li><a href="#" style="opacity: 1;"><img src="images/tlf.png" alt=""></a></li>
+		   <li><a href="mailto:uahimatika@gmail.com" id="email" style="opacity: 1;"><img src="images/g+.png" alt=""></a></li>
+		</ul>
+		<div class="clear"></div> 
+    </div>
+	<div class="footer-bot">
+ 		<a href="#toTop" class="toTop"></a>
+			<script type="text/javascript">
+				$('.toTop ').click(function(){
+					$("html, body").animate({ scrollTop: 0 }, 600);
+					return false;
+				});
+				$('.toBottom').click(function(){
+					$('html,body').animate({scrollTop: $(document).height()}, 600);
+					return false;
+				});
+			</script>
+	</div>
+	<div class="clear"></div>
+</div>
+</body>
+</html>
+
+    	
+    	
+            
