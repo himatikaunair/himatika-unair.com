@@ -1,0 +1,97 @@
+            <div class="row no-gutter fullwidth"><!-- row -->
+            
+                <div class="col-lg-12 clearfix"><!-- featured posts slider -->
+                
+                    <div id="carousel-featured" class="carousel slide" data-interval="4000" data-ride="carousel"><!-- featured posts slider wrapper; auto-slide -->
+                    
+                        <ol class="carousel-indicators"><!-- Indicators -->
+                            <li data-target="#carousel-featured" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel-featured" data-slide-to="1"></li>
+                            <li data-target="#carousel-featured" data-slide-to="2"></li>
+                            <li data-target="#carousel-featured" data-slide-to="3"></li>
+                            <li data-target="#carousel-featured" data-slide-to="4"></li>
+                        </ol><!-- Indicators end -->
+                    
+                        <div class="carousel-inner"><!-- Wrapper for slides -->
+                        
+                            <div class="item active">
+                                <img src="/assets/images/1140x400.jpg" alt="Image slide 3" />
+                                <div class="k-carousel-caption pos-1-3-right scheme-dark">
+                                    <div class="caption-content">
+                                        <h3 class="caption-title">Judul slide</h3>
+                                        <p>
+                                            You have to learn the rules of the game. And then you have to play better than anyone else.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <img src="/assets/images/1140x400.jpg" alt="Image slide 2" />
+                                <div class="k-carousel-caption pos-1-3-left scheme-light">
+                                    <div class="caption-content">
+                                        <h3 class="caption-title">Judul slide</h3>
+                                        <p>
+                                            You have to learn the rules of the game. And then you have to play better than anyone else.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <img src="/assets/images/1140x400.jpg" alt="Image slide 1" />
+                                <div class="k-carousel-caption pos-2-3-right scheme-dark">
+                                    <div class="caption-content">
+                                        <h3 class="caption-title">Judul slide</h3>
+                                        <p>
+                                            You have to learn the rules of the game. And then you have to play better than anyone else.
+                                        </p>
+                                        <p>
+                                            <a href="#" class="btn btn-sm btn-danger" title="Button">Selanjutnya</a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <img src="/assets/images/1140x400.jpg" alt="Image slide 4" />
+                                <div class="k-carousel-caption pos-2-3-left scheme-light">
+                                    <div class="caption-content">
+                                        <h3 class="caption-title">Judul slide</h3>
+                                        <p>
+                                            You have to learn the rules of the game. And then you have to play better than anyone else.
+                                        </p>
+                                        <p>
+                                            <a href="#" class="btn btn-sm btn-danger" title="Button">Selanjutnya</a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item">
+                                <img src="/assets/images/1140x400.jpg" alt="Image slide 5" />
+                                <div class="k-carousel-caption pos-c-2-3 scheme-dark no-bg">
+                                    <div class="caption-content">
+                                        <h3 class="caption-title title-giant">Judul slide</h3>
+                                        <p>
+                                            You have to learn the rules of the game. And then you have to play better than anyone else.
+                                        </p>
+                                        <p>
+                                            <a href="#" class="btn btn-sm btn-danger" title="Button">Selanjutnya</a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div><!-- Wrapper for slides end -->
+                    
+                        <!-- Controls -->
+                        <a class="left carousel-control" href="#carousel-featured" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
+                        <a class="right carousel-control" href="#carousel-featured" data-slide="next"><i class="fa fa-chevron-right"></i></a>
+                        <!-- Controls end -->
+                        
+                    </div><!-- featured posts slider wrapper end -->
+                        
+                </div><!-- featured posts slider end -->
+                
+            </div><!-- row end -->
