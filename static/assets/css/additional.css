@@ -1,0 +1,9 @@
+/* Logo */
+.k-logo {
+    margin-top: 50px;
+}
+
+/* berita unair tanpa foto */
+.recent-news-text.no-figure {
+    margin: 0;
+}
