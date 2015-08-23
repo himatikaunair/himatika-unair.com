@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/pemaba/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/pengurus/</loc>
   </url>
   
