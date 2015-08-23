@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kelompok-Pemabas on Himatika Universitas Airlangga</title>
+    <link>http://localhost:1313/kelompok-pemaba/</link>
+    <description>Recent content in Kelompok-Pemabas on Himatika Universitas Airlangga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <atom:link href="http://localhost:1313/kelompok-pemaba/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/kelompok-pemaba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/kelompok-pemaba/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;link rel=&#34;canonical&#34; href=&#34;https://docs.google.com/spreadsheets/d/1v203_RxsQtKC9nBUX-fjud-JsAlvu9fE9Y2QzKSAL68/pubhtml&#34;/&gt;
+        &lt;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=utf-8&#34;/&gt;
+        &lt;meta http-equiv=&#34;refresh&#34; content=&#34;0;url=https://docs.google.com/spreadsheets/d/1v203_RxsQtKC9nBUX-fjud-JsAlvu9fE9Y2QzKSAL68/pubhtml&#34;/&gt;
+    &lt;/head&gt;
+&lt;/html&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
