@@ -132,10 +132,174 @@
                     &lt;h3&gt;Tugas Pemaba&lt;/h3&gt;
                     Penugasan buat besok, mohon di perhatikan
                     &lt;img src=&#34;http://localhost:1313/assets/images/tugas-pemaba-2015.png&#34; alt=&#34;Tugas Pemaba 2015&#34;&gt;
+                    &lt;img src=&#34;http://localhost:1313/assets/images/tugas-pemaba-buku-2015.png&#34; alt=&#34;Tugas Pemaba Buku 2015&#34;&gt;
                     &lt;h3&gt;Pembagian Kelompok&lt;/h3&gt;
                     &lt;p&gt;Hai, Calon Mahasiswa Baru Himatika!&lt;/p&gt;
                     &lt;p&gt;Ini pembagian kelompoknya, Semangat ya! HIMATIKA! YES! YES! YES!&lt;/p&gt;
                     &lt;iframe style=&#34;width: 100%;min-height: 900px;&#34; src=&#34;https://docs.google.com/spreadsheets/d/1v203_RxsQtKC9nBUX-fjud-JsAlvu9fE9Y2QzKSAL68/pubhtml?widget=true&amp;amp;headers=false&#34;&gt;&lt;/iframe&gt;
+                &lt;/div&gt;
+                &lt;!-- end col-lg-12 --&gt;
+            &lt;/div&gt;
+            &lt;!-- end row --&gt;
+        &lt;/div&gt;
+        &lt;!-- end container --&gt;
+    &lt;/div&gt;
+    &lt;!-- end k-body --&gt;
+
+    &lt;div id=&#34;k-subfooter&#34;&gt;&lt;!-- subfooter --&gt;
+        &lt;div class=&#34;container&#34;&gt;&lt;!-- container --&gt;
+            &lt;div class=&#34;row&#34;&gt;&lt;!-- row --&gt;
+                &lt;div class=&#34;col-lg-12&#34;&gt;
+                    &lt;p class=&#34;copy-text text-inverse&#34;&gt;
+                    &amp;copy; 2015 Himpunan Mahasiswa Matematika Universitas Airlangga. All rights reserved.
+                    &lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;&lt;!-- row end --&gt;
+        &lt;/div&gt;&lt;!-- container end --&gt;
+    &lt;/div&gt;&lt;!-- subfooter end --&gt;
+
+&lt;!-- jQuery --&gt;
+&lt;script src=&#34;http://localhost:1313/assets/js/jquery-2.1.1.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://localhost:1313/assets/js/jquery-migrate-1.2.1.min.js&#34;&gt;&lt;/script&gt;
+
+&lt;!-- Bootstrap --&gt;
+&lt;script src=&#34;http://localhost:1313/assets/js/bootstrap.min.js&#34;&gt;&lt;/script&gt;
+
+&lt;!-- Drop-down --&gt;
+&lt;script src=&#34;http://localhost:1313/assets/js/dropdown-menu.js&#34;&gt;&lt;/script&gt;
+
+&lt;!-- Fancybox --&gt;
+&lt;script src=&#34;http://localhost:1313/assets/js/jquery.fancybox.pack.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://localhost:1313/assets/js/jquery.fancybox-media.js&#34;&gt;&lt;/script&gt;&lt;!-- Fancybox media --&gt;
+
+&lt;!-- Responsive videos --&gt;
+&lt;script src=&#34;http://localhost:1313/assets/js/jquery.fitvids.js&#34;&gt;&lt;/script&gt;
+
+&lt;!-- Audio player --&gt;
+&lt;script src=&#34;http://localhost:1313/assets/js/audioplayer.min.js&#34;&gt;&lt;/script&gt;
+
+&lt;!-- Pie charts --&gt;
+&lt;script src=&#34;http://localhost:1313/assets/js/jquery.easy-pie-chart.js&#34;&gt;&lt;/script&gt;
+
+&lt;!-- Google Maps --&gt;
+&lt;script src=&#34;https://maps.googleapis.com/maps/api/js?sensor=true&#34;&gt;&lt;/script&gt;
+
+&lt;!-- Theme --&gt;
+&lt;script src=&#34;http://localhost:1313/assets/js/theme.js&#34;&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pkm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pkm/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+    &lt;head&gt;
+        &lt;meta charset=&#34;utf-8&#34;&gt;
+        &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;
+        &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+        &lt;title&gt;PKM 2015 - Himpunan Mahasiswa Matematika Universitas Airlangga&lt;/title&gt;
+        &lt;meta name=&#34;description&#34; content=&#34;Himpunan Mahasiswa Matematika Universitas Airlangga&#34;&gt;
+        &lt;!-- Styles --&gt;
+        &lt;link href=&#34;http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,800&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;&lt;!-- Google web fonts --&gt;
+        &lt;link href=&#34;http://localhost:1313/font-awesome-4.3.0/css/font-awesome.min.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;&lt;!-- font-awesome --&gt;
+        &lt;link href=&#34;http://localhost:1313/assets/css/dropdown-menu.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;&lt;!-- dropdown-menu --&gt;
+        &lt;link href=&#34;http://localhost:1313/assets/css/bootstrap.min.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;&lt;!-- Bootstrap --&gt;
+        &lt;link href=&#34;http://localhost:1313/assets/css/jquery.fancybox.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;&lt;!-- Fancybox --&gt;
+        &lt;link href=&#34;http://localhost:1313/assets/css/audioplayer.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;&lt;!-- Audioplayer --&gt;
+        &lt;link href=&#34;http://localhost:1313/assets/css/style.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;&lt;!-- theme styles --&gt;
+        &lt;link href=&#34;http://localhost:1313/assets/css/additional.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;&lt;!-- additional styles --&gt;
+
+    &lt;/head&gt;
+
+    &lt;body role=&#34;document&#34;&gt;
+
+    &lt;!-- device test, don&#39;t remove. javascript needed! --&gt;
+    &lt;span class=&#34;visible-xs&#34;&gt;&lt;/span&gt;&lt;span class=&#34;visible-sm&#34;&gt;&lt;/span&gt;&lt;span class=&#34;visible-md&#34;&gt;&lt;/span&gt;&lt;span class=&#34;visible-lg&#34;&gt;&lt;/span&gt;
+    &lt;!-- device test end --&gt;
+
+    &lt;!-- start k-head --&gt;
+    &lt;div id=&#34;k-head&#34; class=&#34;container&#34;&gt;
+        &lt;!-- start row --&gt;
+        &lt;div class=&#34;row&#34;&gt;
+            &lt;!-- start col-lg-12 --&gt;
+            &lt;div class=&#34;col-lg-12&#34;&gt;
+                &lt;!-- site logo --&gt;
+                &lt;div id=&#34;k-site-logo&#34; class=&#34;pull-left&#34;&gt;
+                    &lt;h1 class=&#34;k-logo&#34;&gt;
+                        &lt;a href=&#34;http://localhost:1313/&#34; title=&#34;Beranda&#34;&gt;
+                            &lt;img src=&#34;http://localhost:1313/assets/images/himatika-logo.png&#34; alt=&#34;Himatika Universitas Airlangga&#34; class=&#34;img-responsive&#34; /&gt;
+                        &lt;/a&gt;
+                    &lt;/h1&gt;
+                    &lt;a id=&#34;mobile-nav-switch&#34; href=&#34;#drop-down-left&#34;&gt;&lt;span class=&#34;alter-menu-icon&#34;&gt;&lt;/span&gt;&lt;/a&gt;&lt;!-- alternative menu button --&gt;
+
+                &lt;/div&gt;
+                &lt;!-- site logo end --&gt;
+                
+                &lt;!-- start main navig --&gt;
+                &lt;nav id=&#34;k-menu&#34; class=&#34;k-main-navig&#34;&gt;
+                    &lt;ul id=&#34;drop-down-left&#34; class=&#34;k-dropdown-menu&#34;&gt;
+                        &lt;li&gt;
+                            &lt;a href=&#34;#&#34; class=&#34;Drop down menu&#34; title=&#34;Pengurus Himatika&#34;&gt;Kepengurusan&lt;/a&gt;
+                            &lt;ul class=&#34;sub-menu&#34;&gt;
+                                &lt;li&gt;&lt;a href=&#34;#&#34;&gt;Tahun 2015&lt;/a&gt;&lt;/li&gt;
+                                &lt;li&gt;&lt;a href=&#34;http://localhost:1313/2014&#34;&gt;Tahun 2014&lt;/a&gt;&lt;/li&gt;
+                            &lt;/ul&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href=&#34;#&#34; class=&#34;Drop down menu&#34; title=&#34;Program Kerja&#34;&gt;Proker&lt;/a&gt;
+                            &lt;ul class=&#34;sub-menu&#34;&gt;
+                                &lt;li&gt;&lt;a href=&#34;#&#34;&gt;Proker&lt;/a&gt;&lt;/li&gt;
+                                &lt;li&gt;&lt;a href=&#34;http://localhost:1313/2014&#34;&gt;Agenda&lt;/a&gt;&lt;/li&gt;
+                            &lt;/ul&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href=&#34;#&#34; title=&#34;Foto/Video&#34;&gt;Gallery&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href=&#34;#&#34; class=&#34;Drop down menu&#34; title=&#34;Tanya jawab/saran&#34;&gt;Forum Himatika&lt;/a&gt;
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/nav&gt;
+                &lt;!-- end main navig --&gt;
+            &lt;/div&gt;
+            &lt;!-- end col-lg-12 --&gt;
+        &lt;/div&gt;
+        &lt;!-- end row --&gt;
+    &lt;/div&gt;
+    &lt;!-- end k-head --&gt;
+
+    &lt;!-- start k-body --&gt;
+    &lt;div id=&#34;k-body&#34;&gt;
+        &lt;!-- start container --&gt;
+        &lt;div class=&#34;container&#34;&gt;
+            &lt;!-- start row --&gt;
+            &lt;div class=&#34;row&#34;&gt;
+                &lt;!-- start breadcrumb --&gt;
+                &lt;div class=&#34;k-breadcrumbs col-lg-12 clearfix&#34;&gt;
+                    &lt;ol class=&#34;breadcrumb&#34;&gt;
+                        &lt;li&gt;&lt;a href=&#34;#&#34;&gt;Himatika&lt;/a&gt;&lt;/li&gt;
+                        &lt;li class=&#34;active&#34;&gt;PKM Himatika 2015&lt;/li&gt;
+                    &lt;/ol&gt;
+                &lt;/div&gt;
+                &lt;!-- end breadcrumb --&gt;
+
+            &lt;/div&gt;
+            &lt;!-- end row --&gt;
+            &lt;!-- start row --&gt;
+            &lt;div class=&#34;row&#34;&gt;
+                &lt;!-- start col-lg-12 --&gt;
+                &lt;div class=&#34;bph col-lg-12&#34;&gt;
+                    &lt;h2&gt;PKM Himatika 2015&lt;/h2&gt;
+                    &lt;p&gt;
+                        File bisa di &lt;a href=&#34;https://drive.google.com/file/d/0B-bp60Y4iZaEM1ljUDJKbGhWRU0/view?usp=sharing&#34;&gt;download disini&lt;/a&gt;.
+                    &lt;/p&gt;
                 &lt;/div&gt;
                 &lt;!-- end col-lg-12 --&gt;
             &lt;/div&gt;

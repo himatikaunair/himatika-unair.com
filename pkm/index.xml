@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pemabas on Himatika Universitas Airlangga</title>
-    <link>http://localhost:1313/pemaba/</link>
-    <description>Recent content in Pemabas on Himatika Universitas Airlangga</description>
+    <title>Pkms on Himatika Universitas Airlangga</title>
+    <link>http://localhost:1313/pkm/</link>
+    <description>Recent content in Pkms on Himatika Universitas Airlangga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-ID</language>
-    <atom:link href="http://localhost:1313/pemaba/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pkm/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://localhost:1313/pemaba/</link>
+      <link>http://localhost:1313/pkm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pemaba/</guid>
+      <guid>http://localhost:1313/pkm/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;en&#34;&gt;
     &lt;head&gt;
         &lt;meta charset=&#34;utf-8&#34;&gt;
         &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;
         &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
-        &lt;title&gt;Pemaba 2015 - Himpunan Mahasiswa Matematika Universitas Airlangga&lt;/title&gt;
+        &lt;title&gt;PKM 2015 - Himpunan Mahasiswa Matematika Universitas Airlangga&lt;/title&gt;
         &lt;meta name=&#34;description&#34; content=&#34;Himpunan Mahasiswa Matematika Universitas Airlangga&#34;&gt;
         &lt;!-- Styles --&gt;
         &lt;link href=&#34;http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,800&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;&lt;!-- Google web fonts --&gt;
@@ -101,7 +101,7 @@
                 &lt;div class=&#34;k-breadcrumbs col-lg-12 clearfix&#34;&gt;
                     &lt;ol class=&#34;breadcrumb&#34;&gt;
                         &lt;li&gt;&lt;a href=&#34;#&#34;&gt;Himatika&lt;/a&gt;&lt;/li&gt;
-                        &lt;li class=&#34;active&#34;&gt;Pemaba 2015&lt;/li&gt;
+                        &lt;li class=&#34;active&#34;&gt;PKM Himatika 2015&lt;/li&gt;
                     &lt;/ol&gt;
                 &lt;/div&gt;
                 &lt;!-- end breadcrumb --&gt;
@@ -112,15 +112,10 @@
             &lt;div class=&#34;row&#34;&gt;
                 &lt;!-- start col-lg-12 --&gt;
                 &lt;div class=&#34;bph col-lg-12&#34;&gt;
-                    &lt;h2&gt;Pemaba 2015&lt;/h2&gt;
-                    &lt;h3&gt;Tugas Pemaba&lt;/h3&gt;
-                    Penugasan buat besok, mohon di perhatikan
-                    &lt;img src=&#34;http://localhost:1313/assets/images/tugas-pemaba-2015.png&#34; alt=&#34;Tugas Pemaba 2015&#34;&gt;
-                    &lt;img src=&#34;http://localhost:1313/assets/images/tugas-pemaba-buku-2015.png&#34; alt=&#34;Tugas Pemaba Buku 2015&#34;&gt;
-                    &lt;h3&gt;Pembagian Kelompok&lt;/h3&gt;
-                    &lt;p&gt;Hai, Calon Mahasiswa Baru Himatika!&lt;/p&gt;
-                    &lt;p&gt;Ini pembagian kelompoknya, Semangat ya! HIMATIKA! YES! YES! YES!&lt;/p&gt;
-                    &lt;iframe style=&#34;width: 100%;min-height: 900px;&#34; src=&#34;https://docs.google.com/spreadsheets/d/1v203_RxsQtKC9nBUX-fjud-JsAlvu9fE9Y2QzKSAL68/pubhtml?widget=true&amp;amp;headers=false&#34;&gt;&lt;/iframe&gt;
+                    &lt;h2&gt;PKM Himatika 2015&lt;/h2&gt;
+                    &lt;p&gt;
+                        File bisa di &lt;a href=&#34;https://drive.google.com/file/d/0B-bp60Y4iZaEM1ljUDJKbGhWRU0/view?usp=sharing&#34;&gt;download disini&lt;/a&gt;.
+                    &lt;/p&gt;
                 &lt;/div&gt;
                 &lt;!-- end col-lg-12 --&gt;
             &lt;/div&gt;
