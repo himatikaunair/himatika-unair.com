@@ -19,11 +19,11 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/pengurus/</loc>
+    <loc>http://localhost:1313/pkm/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/pkm/</loc>
+    <loc>http://localhost:1313/pengurus/</loc>
   </url>
   
 </urlset>

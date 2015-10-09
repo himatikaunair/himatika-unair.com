@@ -113,7 +113,7 @@
                 &lt;!-- start col-lg-12 --&gt;
                 &lt;div class=&#34;bph col-lg-12&#34;&gt;
                     &lt;h2&gt;Program Kerja&lt;/h2&gt;
-                    &lt;iframe style=&#34;width: 100%;min-height: 900px;&#34; src=&#34;https://docs.google.com/spreadsheets/d/1b_gaZDLWdsqteD3shqd6iGTgVU8sxtqrQRsE6_BAhLU/pubhtml?widget=true&amp;amp;headers=false&#34;&gt;&lt;/iframe&gt;
+                    &lt;!-- &lt;iframe style=&#34;width: 100%;min-height: 900px;&#34; src=&#34;https://docs.google.com/spreadsheets/d/1b_gaZDLWdsqteD3shqd6iGTgVU8sxtqrQRsE6_BAhLU/pubhtml?widget=true&amp;amp;headers=false&#34;&gt;&lt;/iframe&gt; --&gt;
                 &lt;/div&gt;
                 &lt;!-- end col-lg-12 --&gt;
             &lt;/div&gt;
